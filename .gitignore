@@ -1,0 +1,10 @@
+.venv/
+python_embed/
+node_modules/
+__pycache__/
+outputs/
+dist/
+build/
+*.pyc
+*.log
+test_data/*/_*.png
